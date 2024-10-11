@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  chname: MyString
+  chnotes: MyString
+  body: MyText
+  story: one
+
+two:
+  chname: MyString
+  chnotes: MyString
+  body: MyText
+  story: two
